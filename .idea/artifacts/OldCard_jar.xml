@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OldCard:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OldCard_jar</output-path>
+    <root id="archive" name="OldCard.jar">
+      <element id="module-output" name="OldCard" />
+    </root>
+  </artifact>
+</component>
